@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/additionnal.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ae-awt.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ae-jaxb-2.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ae-xmlgraphics-commons.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/avalon-framework-api-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/avalon-framework-impl-4.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-io-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/istack-commons-runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/JAXBNamespacePrefixMapper-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jaxp-datatype.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/serializer-2.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/stringtemplate-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/txw2-20110809.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/w3c-css.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ae-docx4j-2.8.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
