@@ -21,7 +21,7 @@ public class AndroidDataUriImageHandler extends AbstractConversionImageHandler {
 	 */
 	public AndroidDataUriImageHandler() {
 		super( "", false);
-		// imageDirPath.equals("") forces createStoredImage
+		// imageDirPath.equals("") forces createEncodedImage
 		// for internal ones.  TODO: review external handling
 	}
 
