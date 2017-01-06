@@ -1,3 +1,6 @@
+
+Update January 2017: For a modern Android Studio app, using docx4j 3.3.x, please see instead https://github.com/plutext/Docx4j4Android4
+
 Convert sample.docx to HTML on Android, using docx4j.
 
 When you run it, the app should come up with 2 tabs, one displaying the web page, the other the HTML source.
